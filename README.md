@@ -2,6 +2,11 @@
 
 A React + TypeScript UI demo showcasing three order tracking scenarios: delayed shipment, delivered but not received, and tracking not yet available.
 
+<img src="https://i.ibb.co.com/20dpjGsQ/Track-It-order-delay.png" height="300px" width="400px">
+<img src="https://i.ibb.co.com/Z6Y4QqNc/Track-It-order-not-recieved.png" height="300px" width="400px">
+
+🔗 **Live:** [https://trackit-order-tracking.vercel.app/](https://trackit-order-tracking.vercel.app/)
+
 ## Tech Stack
 
 - React 18
